@@ -1,4 +1,4 @@
-# React Feature Sliced Design Template
+# Frontend Template
 
 A modern React application template built with Feature Sliced Design architecture, incorporating best practices and popular tools for React development.
 
